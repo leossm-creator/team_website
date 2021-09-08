@@ -1,0 +1,14 @@
+{
+    "name": "team_website",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.2"
+    }
+}
